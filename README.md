@@ -14,13 +14,13 @@
 </a>
 </li>
 <li style="display: inline;">
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
 <a href="#" style="color:#fff; text-decoration:none;">
 دانلود برنامه
 </a>
 </li>
 <li style="display: inline;">
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
 <a href="#" style="color:#fff; text-decoration:none;">
 دانلود بازی انلاین 
 </a>
@@ -28,7 +28,7 @@
 </li>
 
 <li style="display: inline;">
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
 <a href="#" style="color:#fff; text-decoration:none;">
 دانلود  بازی مود شده
 </a>
