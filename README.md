@@ -1,5 +1,5 @@
 ### assspt.github.io
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,7 +34,7 @@
 </a>
 </li>
 <center>
-<div style="background-color:#000; color:#7FFF00; margin-top:-65px; width:397px; margin-left:-12px; height:208px; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none;" >
+<div style="background-color:#000; color:#7FFF00; margin-top:-130px; width:397px; margin-left:-12px; height:208px; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none;" >
 <br>
 <br>
 <br>
@@ -77,11 +77,11 @@
 <a href="https://dl.tinroid.ir/game/gta5/GTA-San-Andreas-v2.00-Data-tinroid.ir.zip">
 <h3> نصب دیتا</h3>
 </a>
-</div>
-</center>
 
 
 
 
 
-</html>
+
+
+
