@@ -12,12 +12,14 @@
 <a href="#" style="color:#fff; text-decoration:none;">
 دانلود بازی  
 </a>
+<br>
 </li>
 <li style="display: inline;">
 
 <a href="#" style="color:#fff; text-decoration:none;">
 دانلود برنامه
 </a>
+<br>
 </li>
 <li style="display: inline;">
 
@@ -26,7 +28,7 @@
 </a>
 
 </li>
-
+<br>
 <li style="display: inline;">
 
 <a href="#" style="color:#fff; text-decoration:none;">
@@ -34,6 +36,8 @@
 </a>
 </li>
 <center>
+<br><br><br>
+
 <div style="background-color:#000; color:#7FFF00; margin-top:-130px; width:397px; margin-left:-12px; height:208px; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none;" >
 <br>
 <br>
